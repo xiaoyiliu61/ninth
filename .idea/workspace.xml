@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e61ad60-dc25-41f3-837d-ea83b8a48cb0" name="Default Changelist" comment="" />
+    <list default="true" id="2e61ad60-dc25-41f3-837d-ea83b8a48cb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/qianfeng/collection/demo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collection04Project/cn/qianfeng/collection/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collection04Project/cn/qianfeng/collection/demo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/qianfeng/collection/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/qianfeng/collection/demo/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jRXUNsLNLPME7w86TVNHjsSt4d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,6 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1603767892550</updated>
       <workItem from="1603767898240" duration="2228000" />
+      <workItem from="1603801468222" duration="174000" />
+      <workItem from="1603845491089" duration="1195000" />
+      <workItem from="1603938703613" duration="3379000" />
+      <workItem from="1603970857589" duration="629000" />
+      <workItem from="1603972672385" duration="1021000" />
     </task>
     <servers />
   </component>
@@ -66,40 +80,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Inspections" timestamp="1603940122492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1603940122492" />
     <state x="722" y="102" key="#Project_Structure" timestamp="1603767945159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="722" y="102" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1603767945159" />
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1603770133130">
+    <state x="1038" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1603973712498">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603770133130" />
-    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1603770133126">
+    <state x="1038" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1603973712498" />
+    <state width="543" height="162" key="GridCell.Tab.0.bottom" timestamp="1603972998991">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603770133126" />
-    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1603770133126">
+    <state width="543" height="162" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603972998991" />
+    <state width="543" height="162" key="GridCell.Tab.0.center" timestamp="1603972998987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603770133126" />
-    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1603770133126">
+    <state width="543" height="162" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603972998987" />
+    <state width="543" height="162" key="GridCell.Tab.0.left" timestamp="1603972998987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603770133126" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1603801467431">
+    <state width="543" height="162" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603972998987" />
+    <state width="543" height="162" key="GridCell.Tab.0.right" timestamp="1603972998987">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801467431" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/qianfeng/collection/demo/Test.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="543" height="162" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603972998987" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1603972693653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1603972693653" />
   </component>
 </project>
